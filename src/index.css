@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --primary: #0f172a;
+    --secondary: #64748b;
+  }
+
+  html.has-scroll-smooth {
+    overflow: hidden;
+  }
+
+  html.has-scroll-dragging {
+    user-select: none;
+  }
+
+  .has-scroll-smooth body {
+    overflow: hidden;
+  }
+
+  .has-scroll-smooth [data-scroll-container] {
+    min-height: 100vh;
+  }
+}
+
+@layer components {
+  .heading-xl {
+    @apply text-6xl md:text-8xl font-bold tracking-tighter;
+  }
+  
+  .heading-lg {
+    @apply text-4xl md:text-6xl font-bold tracking-tight;
+  }
+
+  .container-custom {
+    @apply max-w-[1400px] mx-auto px-6;
+  }
+}
