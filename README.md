@@ -1,4 +1,4 @@
-# Modern Portfolio Website
+# Modern IT Solution Website
 
 A stunning portfolio website built with React, TailwindCSS, and Locomotive Scroll for smooth scrolling animations.
 
