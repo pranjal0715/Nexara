@@ -23,7 +23,7 @@ A stunning portfolio website built with React, TailwindCSS, and Locomotive Scrol
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/modern-portfolio.git
+git clone https://github.com/pranjal0715/modern-IT-Solutions.git
 \`\`\`
 
 2. Navigate to the project directory:
