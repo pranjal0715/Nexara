@@ -28,7 +28,7 @@ git clone https://github.com/pranjal0715/modern-IT-Solutions.git
 
 2. Navigate to the project directory:
 \`\`\`bash
-cd modern-portfolio
+cd modern-IT-Solutions
 \`\`\`
 
 3. Install dependencies:
