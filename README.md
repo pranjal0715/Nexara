@@ -2,6 +2,8 @@
 
 A stunning portfolio website built with React, TailwindCSS, and Locomotive Scroll for smooth scrolling animations.
 
+![Fusion Flavors Menu](assets/hero.png)
+
 ## Features
 
 - Smooth scroll animations with Locomotive Scroll
